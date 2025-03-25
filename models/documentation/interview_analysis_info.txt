@@ -1,0 +1,25 @@
+MODEL: interview_analysis
+==================================================
+
+DESCRIPTION:
+RoBERTa-based model for analyzing interview responses to measure confidence, clarity, relevance, and technical accuracy.
+
+IDEAL INPUT FORMAT:
+
+I've been working with Python for over 5 years, specializing in machine learning applications.
+At my previous job, I implemented a recommendation system that increased user engagement by 25%.
+I'm particularly skilled in TensorFlow and PyTorch for building deep learning models.
+I also have experience leading a team of 3 junior developers, mentoring them on best practices.
+
+For scaling challenges, I've used AWS Lambda with DynamoDB to handle millions of requests per day.
+My approach to problem-solving involves breaking down complex issues into manageable components,
+and I believe in thorough testing at every stage of development.
+
+
+TEST PERFORMANCE METRICS:
+- accuracy: 0.0000
+- confidence_detection: 0.0000
+- clarity_assessment: 0.0000
+- relevance_score: 0.0000
+
+Last updated: Unknown

@@ -1,0 +1,7 @@
+2025-03-24 00:08:50,196 - INFO - Starting Interview Analyzer Pro
+2025-03-24 00:08:50,196 - INFO - Checking environment...
+2025-03-24 00:08:50,196 - INFO - Python version: 3.11.8
+2025-03-24 00:08:50,197 - ERROR - PyQt5 is not installed! UI will not function.
+2025-03-24 00:08:50,197 - WARNING - No advanced ML libraries found. Will use fallback models.
+2025-03-24 00:08:50,197 - INFO - Checking for model files...
+2025-03-24 00:08:50,198 - ERROR - Error starting application: unexpected indent (pyqt_interview_analyzer.py, line 36)

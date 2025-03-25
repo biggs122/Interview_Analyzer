@@ -1,0 +1,25 @@
+MODEL: emotion_detection
+==================================================
+
+DESCRIPTION:
+ResNet-based facial emotion detection model that analyzes facial expressions to detect emotions like happiness, sadness, anger, surprise, fear, and neutral.
+
+IDEAL INPUT FORMAT:
+
+RGB Image format (224x224 pixels):
+- Centered face in good lighting
+- Clear facial features (eyes, mouth, eyebrows visible)
+- Minimal background distractions
+- Neutral head pose (looking directly at camera)
+- No excessive accessories covering face
+
+Supported file formats: JPG, PNG
+
+
+TEST PERFORMANCE METRICS:
+- accuracy: 0.1350
+- precision: 0.0000
+- recall: 0.0000
+- confidence: 0.0000
+
+Last updated: Unknown

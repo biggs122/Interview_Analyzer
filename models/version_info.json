@@ -1,0 +1,67 @@
+{
+    "current_version": "v3.0",
+    "available_versions": {
+        "v1.0": {
+            "cv_classifier": "original",
+            "interview_analysis": "original",
+            "emotion_detection": "original",
+            "speech_recognition": "original",
+            "date_created": "2025-03-23",
+            "description": "Initial model versions"
+        },
+        "v2.0": {
+            "cv_classifier": "enhanced",
+            "interview_analysis": "enhanced",
+            "emotion_detection": "enhanced",
+            "speech_recognition": "enhanced",
+            "date_created": "2025-03-24",
+            "description": "Enhanced models with improved accuracy and features"
+        },
+        "v2.1": {
+            "cv_classifier": "real_data",
+            "interview_analysis": "real_data",
+            "emotion_detection": "real_data",
+            "speech_recognition": "real_data",
+            "date_created": "2025-03-23",
+            "description": "Models trained on real data"
+        },
+        "v3.0": {
+            "cv_classifier": "advanced",
+            "interview_analysis": "advanced",
+            "emotion_detection": "advanced",
+            "speech_recognition": "advanced",
+            "date_created": "2025-03-23",
+            "description": "Advanced AI models with transfer learning and transformer models"
+        }
+    },
+    "performance_metrics": {
+        "v1.0": {
+            "cv_classifier_accuracy": 0.78,
+            "interview_analysis_accuracy": 0.72,
+            "emotion_detection_accuracy": 0.65,
+            "speech_recognition_wer": 0.12,
+            "overall_score": 0.7
+        },
+        "v2.0": {
+            "cv_classifier_accuracy": 0.92,
+            "interview_analysis_accuracy": 0.88,
+            "emotion_detection_accuracy": 0.85,
+            "speech_recognition_wer": 0.05,
+            "overall_score": 0.89
+        },
+        "v2.1": {
+            "cv_classifier_accuracy": 0.2,
+            "emotion_detection_accuracy": 0.115,
+            "speech_recognition_wer": 0.0,
+            "overall_score": 0.1575
+        },
+        "v3.0": {
+            "cv_classifier_accuracy": 0.1,
+            "interview_analysis_accuracy": 0.0,
+            "emotion_detection_accuracy": 0.135,
+            "speech_recognition_accuracy": 0.5,
+            "speech_recognition_wer": 0.05,
+            "overall_score": 0.17124999999999999
+        }
+    }
+}

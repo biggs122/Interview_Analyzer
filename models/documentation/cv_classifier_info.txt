@@ -1,0 +1,31 @@
+MODEL: cv_classifier
+==================================================
+
+DESCRIPTION:
+BERT/RoBERTa-based CV analysis model that categorizes resumes into technical, management, creative, customer service, or research categories.
+
+IDEAL INPUT FORMAT:
+
+John Smith
+Software Engineer
+
+SKILLS:
+Programming: Python, Java, C++, JavaScript
+Frameworks: TensorFlow, PyTorch, React, Django
+
+EXPERIENCE:
+Amazon - Senior Machine Learning Engineer (2018-2023)
+- Developed deep learning models for product recommendations
+- Improved conversion rates by 15% with personalized algorithms
+
+EDUCATION:
+Stanford University - MS in Computer Science (2016-2018)
+
+
+TEST PERFORMANCE METRICS:
+- accuracy: 0.1000
+- precision: 0.0000
+- recall: 0.0000
+- f1_score: 0.0000
+
+Last updated: Unknown

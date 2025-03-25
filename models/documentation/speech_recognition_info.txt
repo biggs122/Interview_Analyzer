@@ -1,0 +1,27 @@
+MODEL: speech_recognition
+==================================================
+
+DESCRIPTION:
+Speech recognition model based on Whisper (when available) or basic ML algorithms for converting spoken interview responses to text.
+
+IDEAL INPUT FORMAT:
+
+Audio format specifications:
+- Sample rate: 16kHz (16000 Hz)
+- Bit depth: 16-bit
+- Channels: Mono (single channel)
+- Clear speech with minimal background noise
+- Moderate speaking pace (not too fast or slow)
+- Standard English pronunciation
+- Distance from microphone: 6-12 inches
+
+Supported file formats: WAV, MP3, FLAC
+Maximum duration: 2 minutes per segment
+
+
+TEST PERFORMANCE METRICS:
+- accuracy: 0.5000
+- word_error_rate: 0.0000
+- noise_robustness: 0.0000
+
+Last updated: Unknown

@@ -1,0 +1,13 @@
+INTERVIEW ANALYZER PRO - MODEL INFORMATION
+==================================================
+
+Current version: v3.0
+
+AVAILABLE VERSIONS:
+- v1.0: Initial model versions
+- v2.0: Enhanced models with improved accuracy and features
+- v2.1: Models trained on real data
+- v3.0: Advanced AI models with transfer learning and transformer models
+
+OVERALL SYSTEM PERFORMANCE:
+- Overall score: 0.1712

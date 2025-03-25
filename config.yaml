@@ -1,0 +1,12 @@
+data:
+  facial_path: "data/facial/"
+  audio_path: "data/audio/"
+  cv_path: "data/cv/"
+  processed_path: "data/processed/"
+models:
+  facial: "models/facial/deepface.tflite"
+  audio: "models/audio/speechbrain.tflite"
+  nlp: "models/nlp/distilbert.tflite"
+training:
+  batch_size: 16
+  epochs: 5

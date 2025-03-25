@@ -1,0 +1,12 @@
+{
+    "version": "v3.0",
+    "metrics": {
+        "cv_classifier_accuracy": 0.1,
+        "interview_analysis_accuracy": 0.0,
+        "emotion_detection_accuracy": 0.135,
+        "speech_recognition_accuracy": 0.5,
+        "speech_recognition_wer": 0.05,
+        "overall_score": 0.17124999999999999
+    },
+    "timestamp": "2025-03-24 01:13:51"
+}
